@@ -7,6 +7,7 @@ namespace git测试
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("first commit code");
         }
     }
 }
