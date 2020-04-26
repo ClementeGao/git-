@@ -39,4 +39,5 @@
             Console.WriteLine("git cached test");
 
 <font color=red>this is red color;this is red color;this is red color;this is red color</font>
+<font color=Blue>我是蓝色</font>
 ```
