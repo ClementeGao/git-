@@ -41,4 +41,7 @@
 ~~这是一个删除线~~
 ~~这是一个删除线~~
 ~~这是一个删除线~~
+
+``` c#
+Console.WriteLine("git cached test");
 ```
