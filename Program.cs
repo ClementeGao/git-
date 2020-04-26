@@ -11,6 +11,7 @@ namespace git测试
             Console.WriteLine("forth add code");
             Console.WriteLine("测试 acmend命令");
             Console.WriteLine("git add -u");
+            Console.WriteLine("git cached test");
         }
     }
 }
